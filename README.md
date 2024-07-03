@@ -3,6 +3,7 @@
 > ### - Autor/Desenvolvedor: Francisco Gomes
 > ### - Data de deploy: 27/06/2024
 > ### - Versão: 1.0
+> ### - Link: https://arretadolabs.github.io/bakery_shop_template/
 
 ## Página inicial do site
 ![image](https://github.com/ArretadoLabs/bakery_shop_template/assets/165390931/b63c964c-71be-433a-9538-c2e8aa9d30a3)
